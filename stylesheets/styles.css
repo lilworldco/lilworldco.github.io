@@ -11,6 +11,7 @@ Start Me
 #globe {
   display: block;
   margin:auto;
+  height: 400px;
 }
 @font-face {
   font-family: 'Noto Sans';
