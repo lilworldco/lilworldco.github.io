@@ -8,6 +8,10 @@ Start Me
   color: #000; text-shadow: 1px 1px 0 #fff;
 }
 
+#globe {
+  display: block;
+  margin:auto;
+}
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -235,9 +239,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
+
 }
 
 small {
