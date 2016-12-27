@@ -1,3 +1,13 @@
+/*
+Start Me
+*/
+
+.bgSizeContain {
+  background-size: contain;
+  border: 2px solid darkgray;
+  color: #000; text-shadow: 1px 1px 0 #fff;
+}
+
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -60,6 +70,7 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  background-size: contain;
 }
 
 h1, h2, h3, h4, h5, h6 {
